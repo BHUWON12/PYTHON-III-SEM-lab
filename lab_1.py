@@ -1,0 +1,19 @@
+'''Write a program to demonstrate basic data type in python'''
+a=10
+b='abc'
+c='a'
+d=True
+e=29.33
+l=[1,2,3,4]
+tupp=(1,2,3,4)
+s={23.445,77}
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
+print(type(l))
+print(type(tupp))
+print(type(s))
+dic={1:'w',2:'s',3:'r'}
+print(type(dic))
